@@ -1,5 +1,5 @@
 # Super-Bowl-Squares
-Tableau heatmaps showing probabilities and odds for each Super Bowl square
+[Tableau heatmaps](https://public.tableau.com/app/profile/michael.r.batista/viz/SuperBowlSquares_16755646009170/Story1) showing probabilities and odds for each Super Bowl square
 
 ## The Data
 This [Pro Football Reference](https://www.pro-football-reference.com/boxscores/game-scores.htm) page was scraped using Python's Beautiful Soup library to find the most recent instance of every NFL final score that has ever occurred, filtering out scores that haven't occurred since 1994. Why 1994? Because that was the first year that 2-point conversions were allowed.
